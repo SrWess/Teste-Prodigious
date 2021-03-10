@@ -1,4 +1,6 @@
-# Teste Avaliativo - Desenvolvedor Front-end Junior
+<h1 align="center">
+  Teste Avaliativo - Desenvolvedor Front-end Junior
+</h1>
 
 ## 👨‍💻 Conhecimentos técnicos esperados:
  1. HTML 5
